@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="logo.PNG" alt="Alt text">
+  <img src="logo.png" alt="Alt text">
 </div>
 
 
