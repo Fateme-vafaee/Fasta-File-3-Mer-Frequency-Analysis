@@ -119,8 +119,7 @@ Install seqinr, stringr, ggplot2, or any alternative that you want.
 Feel free to modify the script or adapt it to your specific needs. Contributions and improvements are welcome!
 ## Contact
 
-Vafaeeshaarbaf - @gmail.com
-Fatemeh Vafaee Sharbaf - @ Linkedin
+Fatemeh Vafaee Sharbaf - @Linkedin
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
