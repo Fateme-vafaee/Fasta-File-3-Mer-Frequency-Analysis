@@ -71,27 +71,27 @@ Install seqinr, stringr, ggplot2, or any alternative that you want.
 
 <ol>
   <li id="Preprocess">
-    ## Preprocess:
+    **Preprocess*
     <ul>
       <li>Set the working directory.</li>
       <li>Load required libraries (ggplot2, seqinr, stringr).</li>
     </ul>
   </li>
   <li id="Load_Data">
-    ## Load Data:
+    **Load Data**
     <ul>
       <li>Read the DNA sequence from the "sequence.fasta" file.</li>
       <li>Extract individual sequences and convert them to a character string.</li>
     </ul>
   </li>
   <li id="Define_3-Mers">
-    ## Define 3-Mers:
+    **Define 3-Mers**
     <ul>
       <li>Create a list of all possible 3-mers.</li>
     </ul>
   </li>
   <li id="Main_Analysis">
-    ## Main Analysis:
+    **Main Analysis**
     <ul>
       <li>
         Count the occurrences of each 3-mer in the DNA sequence.
@@ -100,7 +100,7 @@ Install seqinr, stringr, ggplot2, or any alternative that you want.
     </ul>
   </li>
   <li id="Plotting">
-    ## Plotting:
+    **Plotting**
     <ul>
       <li>Generate a bar plot using ggplot2 to visualize the frequency of each 3-mer.</li>
       <li>Customize the plot with distinct colors for better clarity.</li>
