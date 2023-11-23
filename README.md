@@ -120,6 +120,7 @@ Feel free to modify the script or adapt it to your specific needs. Contributions
 ## Contact
 
 Vafaeeshaarbaf - @gmail.com
+Fatemeh Vafaee Sharbaf - @ Linkedin
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
