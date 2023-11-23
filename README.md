@@ -68,45 +68,36 @@ R Packages
 
 Install seqinr, stringr, ggplot2, or any alternative that you want.
 
-
-<ol>
-  <li id="Preprocess">
-    **Preprocess*
-    <ul>
+ ## 1. Preprocess
+  <ul id="Preprocess">
       <li>Set the working directory.</li>
       <li>Load required libraries (ggplot2, seqinr, stringr).</li>
-    </ul>
-  </li>
-  <li id="Load_Data">
-    **Load Data**
-    <ul>
+  </ul>
+
+  ## 2. Load Data
+  <ul id="Load_Data">
       <li>Read the DNA sequence from the "sequence.fasta" file.</li>
       <li>Extract individual sequences and convert them to a character string.</li>
-    </ul>
-  </li>
-  <li id="Define_3-Mers">
-    **Define 3-Mers**
-    <ul>
+</ul>
+
+## 3. Define 3-Mers
+  <ul id="Define_3-Mers">
       <li>Create a list of all possible 3-mers.</li>
-    </ul>
-  </li>
-  <li id="Main_Analysis">
-    **Main Analysis**
-    <ul>
+</ul>
+
+## 4. Main Analysis
+<ul id="Main_Analysis">
       <li>
         Count the occurrences of each 3-mer in the DNA sequence.
       </li>
       <li>Store the results in a vector.</li>
-    </ul>
-  </li>
-  <li id="Plotting">
-    **Plotting**
-    <ul>
+</ul>
+
+## 5. Plotting
+  <ul id="Plotting">
       <li>Generate a bar plot using ggplot2 to visualize the frequency of each 3-mer.</li>
       <li>Customize the plot with distinct colors for better clarity.</li>
-    </ul>
-  </li>
-</ol>
+</ul>
 
 ## Usage:
 <ul>
