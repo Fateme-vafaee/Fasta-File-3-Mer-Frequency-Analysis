@@ -31,10 +31,10 @@
       <a href="#Preprocess">Preprocess</a>
     </li>
     <li>
-      <a href="#Load Data">Load Data</a>
+      <a href="#Load_Data">Load Data</a>
     </li>
     	<li>
-      <a href="#Define 3-Mers">Define 3-Mers</a>
+      <a href="#Define_3-Mers">Define 3-Mers</a>
     </li>
 	<li>
       <a href="#Main_Analysist">Main Analysis</a>
